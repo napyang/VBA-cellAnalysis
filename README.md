@@ -17,9 +17,9 @@ Type A
 ![image](https://github.com/napyang/VBA-cellAnalysis/raw/master/screenshots/result.png)
 
 
-Type B	
-item(x,y)=give item(id,numbers)	
-money(x)=give money(value)	
+Type B  
+item(x,y)=give item(id,numbers) 
+money(x)=give money(value)  
 ![image](https://github.com/napyang/VBA-cellAnalysis/raw/master/screenshots/stringType.png)
 ![image](https://github.com/napyang/VBA-cellAnalysis/raw/master/screenshots/resultString.png)
 ![image](https://github.com/napyang/VBA-cellAnalysis/raw/master/screenshots/input.png)
